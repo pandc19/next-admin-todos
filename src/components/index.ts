@@ -1,4 +1,6 @@
-import { Sidebar } from './Sidebar';
-import { SidebarItem } from './SidebarItem';
-import { TopMenu } from './TopMenu';
-import { WidgetItem } from './WidgetItem';
+export { Sidebar } from './Sidebar';
+export { SidebarItem } from './SidebarItem';
+export { TopMenu } from './TopMenu';
+export { WidgetItem } from './WidgetItem';
+
+export { TabBar } from './TabBar';
